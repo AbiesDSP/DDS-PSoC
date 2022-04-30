@@ -1,0 +1,15 @@
+*.cywrk*
+!*.cywrk
+*.cyprj*
+!*.cyprj
+
+*.cyfit
+*.html
+*.log
+*.rpt
+*.svd
+
+Generated_Source
+Export
+CortexM3
+codegentemp
