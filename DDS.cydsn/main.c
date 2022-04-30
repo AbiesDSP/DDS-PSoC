@@ -44,10 +44,9 @@ int main(void)
 
     DDS_Enable();
 
-    for
-        ever
-        {
-        }
+    for ever
+    {
+    }
 }
 
 CY_ISR(phase_update_isr)
